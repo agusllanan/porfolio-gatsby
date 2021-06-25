@@ -15,4 +15,11 @@ module.exports = {
   }
 ],
   plugins: [`gatsby-plugin-fontawesome-css`],
+  siteMetadata: {
+    title: 'Dev Agustín Llanán',
+    description: 'This is the site of Agustín Llanán, Full Stack Developer',
+    copyright:'This website is Copyright (c) Agustín Llanán'
+  }
 }
+
+
